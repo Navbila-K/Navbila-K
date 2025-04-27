@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navbila-k&label=Profile%20views&color=0e75b6&style=flat" alt="navbila-k" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Every project related to AI**
 
