@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Navbila K From Kongu Engineering college</h1>
-<h3 align="center">A passionate AI Enthusiast who is so hardworking person from India</h3>
+<h1 align="center">Hi 👋, I'm Navbila K from Kongu Engineering College</h1>
+<h3 align="center">An adaptable and passionate AI Enthusiast, driven to learn, innovate, and build impactful solutions 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navbila-k&label=Profile%20views&color=0e75b6&style=flat" alt="navbila-k" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=navbila-k&label=Profile%20views&color=0e75b6&style=flat" alt="navbila-k" /> 
+</p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 Currently exploring **Generative AI, Agentic AI & Scalable Systems**  
+- 👯 Eager to collaborate on **AI and software projects that solve real-world problems**  
+- 💡 Known for my **adaptability** — quickly learning new technologies and thriving in fast-paced environments  
+- 📫 Reach me at **navbilak@gmail.com**  
+- ⚡ Fun fact: **I enjoy turning challenges into opportunities for growth through AI-powered solutions**  
 
-- 👯 I’m looking to collaborate on **Every project related to AI**
-
-- 📫 How to reach me **navbilak@gmail.com**
-
-- ⚡ Fun fact **You think you know me but not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
