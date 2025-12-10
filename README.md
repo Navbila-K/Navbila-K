@@ -16,16 +16,15 @@
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/navbilak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
+
 ### 🛠️ Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,sql)]()
+[![My Skills](https://skillicons.dev/icons?i=java,python,sql)]()
 
 ### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)]()
-
-<!-- extra icons not available in skillicons: Keras, LangChain, HuggingFace -->
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)]()<!-- extra icons not in skillicons: Keras, LangChain, HuggingFace -->
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,azure,mysql,selenium,streamlit)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,mysql,flask,selenium,streamlit)]()
 
 ### 🤖 AI / ML / NLP (custom additions)
 - Keras  
@@ -38,3 +37,5 @@
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]()
+
+
