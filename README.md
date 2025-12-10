@@ -16,16 +16,15 @@
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/navbilak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
-
 ### 🛠️ Languages
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,sql)]()
 
 ### 📚 Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=pandas,numpy,tensorflow)]()
-<!-- extra icons not in skillicons: Keras, LangChain, HuggingFace -->
+<!-- extra icons not available in skillicons: Keras, LangChain, HuggingFace -->
 
 ### ⚙️ Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,azure,mysql,flask,selenium,streamlit)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,mysql,selenium,streamlit)]()
 
 ### 🤖 AI / ML / NLP (custom additions)
 - Keras  
@@ -37,8 +36,4 @@
 - Whisper (Groq)
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)]()
-
-### 🌐 Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flask)]()
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]()
