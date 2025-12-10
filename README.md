@@ -20,7 +20,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,sql)]()
 
 ### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,tensorflow)]()
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)]()
+
 <!-- extra icons not available in skillicons: Keras, LangChain, HuggingFace -->
 
 ### ⚙️ Tools & Platforms
