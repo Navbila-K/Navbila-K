@@ -26,7 +26,7 @@
 ### ⚙️ Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,mysql,flask,selenium,streamlit)]()
 
-### 🤖 AI / ML / NLP (custom additions)
+### 🤖 AI / ML / NLP 
 - Keras  
 - LangChain  
 - Hugging Face  
